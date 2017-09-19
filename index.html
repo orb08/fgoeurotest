@@ -1,0 +1,136 @@
+<html>
+<head>
+	<title>FGO Your Servant List!</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<style>
+	.greyout {
+		opacity: 0.4;
+		filter: alpha(opacity=40); /* msie */
+	}
+	</style>
+</head>
+<body bgcolor="#333333">
+<table>
+<tbody>
+<tr>
+<td>Class</td>
+<td>Rarity</td>
+<td>Servants</td>
+</tr>
+<tr>
+<td rowspan="2">Saber</td>
+<td>5</td>
+<td id="Saber5">&nbsp;</td>
+</tr>
+<tr>
+<td>4</td>
+<td id="Saber4">&nbsp;</td>
+</tr>
+<tr>
+<td rowspan="2">Archer</td>
+<td>5</td>
+<td id="Archer5">&nbsp;</td>
+</tr>
+<tr>
+<td>4</td>
+<td id="Archer4">&nbsp;</td>
+</tr>
+<tr>
+<td rowspan="2">Lancer</td>
+<td>5</td>
+<td id="Lancer5">&nbsp;</td>
+</tr>
+<tr>
+<td>4</td>
+<td id="Lancer4">&nbsp;</td>
+</tr>
+<tr>
+<td rowspan="2">Rider</td>
+<td>5</td>
+<td id="Rider5">&nbsp;</td>
+</tr>
+<tr>
+<td>4</td>
+<td id="Rider4">&nbsp;</td>
+</tr>
+<tr>
+<td rowspan="2">Caster</td>
+<td>5</td>
+<td id="Caster5">&nbsp;</td>
+</tr>
+<tr>
+<td>4</td>
+<td id="Caster4">&nbsp;</td>
+</tr>
+<tr>
+<td rowspan="2">Assassin</td>
+<td>5</td>
+<td id="Assassin5">&nbsp;</td>
+</tr>
+<tr>
+<td>4</td>
+<td id="Assassin4">&nbsp;</td>
+</tr>
+<tr>
+<td rowspan="2">Berserker</td>
+<td>5</td>
+<td id="Berserker5">&nbsp;</td>
+</tr>
+<tr>
+<td>4</td>
+<td id="Berserker4">&nbsp;</td>
+</tr>
+<tr>
+<td rowspan="2">Extra</td>
+<td>5</td>
+<td id="Extra5">&nbsp;</td>
+</tr>
+<tr>
+<td>4</td>
+<td id="Extra4">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</body>
+<script>
+function pad(n, width, z) {
+  z = z || '0';
+  n = n + '';
+  return n.length >= width ? n : new Array(width - n.length + 1).join(z) + n;
+}
+
+function getimg(no) {
+	output = '<img id="' + no + '" class="greyout" src="servants/' + pad(no, 3) + '.png" onclick="this.classList.toggle(\'greyout\');">';
+	return output;
+}
+
+$.get('data.json', function(data) {
+	for (i=0; i<data.length; i++) {
+		serclass = "";
+		serrarity= "";
+		switch (data[i]["class"]) {
+			case "Saber":
+			case "Archer":
+			case "Lancer":
+			case "Rider":
+			case "Caster":
+			case "Assassin":
+			case "Berserker":
+				serclass = data[i]["class"];
+				break;
+			case "Shielder":
+			case "Ruler":
+			case "Avenger":
+			case "Alterego":
+			case "Mooncancer":
+				serclass = "Extra";
+				break;
+		}
+		serrarity = data[i]["rarity"];
+		if (serclass != "" && serrarity != "")
+			$("#" + serclass + serrarity).append(getimg(data[i]["no"]));
+	}
+});
+
+</script>	
+</html>

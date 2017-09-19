@@ -1,0 +1,912 @@
+[
+  {
+    "no": 1,
+    "class": "Shielder",
+    "rarity": 4
+  },
+  {
+    "no": 2,
+    "class": "Saber",
+    "rarity": 5
+  },
+  {
+    "no": 3,
+    "class": "Saber",
+    "rarity": 4
+  },
+  {
+    "no": 4,
+    "class": "Saber",
+    "rarity": 4
+  },
+  {
+    "no": 5,
+    "class": "Saber",
+    "rarity": 4
+  },
+  {
+    "no": 6,
+    "class": "Saber",
+    "rarity": 4
+  },
+  {
+    "no": 7,
+    "class": "Saber",
+    "rarity": 3
+  },
+  {
+    "no": 8,
+    "class": "Saber",
+    "rarity": 5
+  },
+  {
+    "no": 9,
+    "class": "Saber",
+    "rarity": 3
+  },
+  {
+    "no": 10,
+    "class": "Saber",
+    "rarity": 4
+  },
+  {
+    "no": 11,
+    "class": "Archer",
+    "rarity": 4
+  },
+  {
+    "no": 12,
+    "class": "Archer",
+    "rarity": 5
+  },
+  {
+    "no": 13,
+    "class": "Archer",
+    "rarity": 3
+  },
+  {
+    "no": 14,
+    "class": "Archer",
+    "rarity": 4
+  },
+  {
+    "no": 15,
+    "class": "Archer",
+    "rarity": 3
+  },
+  {
+    "no": 16,
+    "class": "Archer",
+    "rarity": 1
+  },
+  {
+    "no": 17,
+    "class": "Lancer",
+    "rarity": 3
+  },
+  {
+    "no": 18,
+    "class": "Lancer",
+    "rarity": 4
+  },
+  {
+    "no": 19,
+    "class": "Lancer",
+    "rarity": 2
+  },
+  {
+    "no": 20,
+    "class": "Lancer",
+    "rarity": 3
+  },
+  {
+    "no": 21,
+    "class": "Lancer",
+    "rarity": 2
+  },
+  {
+    "no": 22,
+    "class": "Lancer",
+    "rarity": 3
+  },
+  {
+    "no": 23,
+    "class": "Rider",
+    "rarity": 3
+  },
+  {
+    "no": 24,
+    "class": "Rider",
+    "rarity": 2
+  },
+  {
+    "no": 25,
+    "class": "Rider",
+    "rarity": 2
+  },
+  {
+    "no": 26,
+    "class": "Rider",
+    "rarity": 3
+  },
+  {
+    "no": 27,
+    "class": "Rider",
+    "rarity": 3
+  },
+  {
+    "no": 28,
+    "class": "Rider",
+    "rarity": 3
+  },
+  {
+    "no": 29,
+    "class": "Rider",
+    "rarity": 4
+  },
+  {
+    "no": 30,
+    "class": "Rider",
+    "rarity": 4
+  },
+  {
+    "no": 31,
+    "class": "Caster",
+    "rarity": 3
+  },
+  {
+    "no": 32,
+    "class": "Caster",
+    "rarity": 3
+  },
+  {
+    "no": 33,
+    "class": "Caster",
+    "rarity": 2
+  },
+  {
+    "no": 34,
+    "class": "Caster",
+    "rarity": 2
+  },
+  {
+    "no": 35,
+    "class": "Caster",
+    "rarity": 3
+  },
+  {
+    "no": 36,
+    "class": "Caster",
+    "rarity": 1
+  },
+  {
+    "no": 37,
+    "class": "Caster",
+    "rarity": 5
+  },
+  {
+    "no": 38,
+    "class": "Caster",
+    "rarity": 3
+  },
+  {
+    "no": 39,
+    "class": "Assassin",
+    "rarity": 1
+  },
+  {
+    "no": 40,
+    "class": "Assassin",
+    "rarity": 2
+  },
+  {
+    "no": 41,
+    "class": "Assassin",
+    "rarity": 4
+  },
+  {
+    "no": 42,
+    "class": "Assassin",
+    "rarity": 3
+  },
+  {
+    "no": 43,
+    "class": "Assassin",
+    "rarity": 2
+  },
+  {
+    "no": 44,
+    "class": "Assassin",
+    "rarity": 2
+  },
+  {
+    "no": 45,
+    "class": "Assassin",
+    "rarity": 1
+  },
+  {
+    "no": 46,
+    "class": "Assassin",
+    "rarity": 4
+  },
+  {
+    "no": 47,
+    "class": "Berserker",
+    "rarity": 4
+  },
+  {
+    "no": 48,
+    "class": "Berserker",
+    "rarity": 4
+  },
+  {
+    "no": 49,
+    "class": "Berserker",
+    "rarity": 3
+  },
+  {
+    "no": 50,
+    "class": "Berserker",
+    "rarity": 1
+  },
+  {
+    "no": 51,
+    "class": "Berserker",
+    "rarity": 5
+  },
+  {
+    "no": 52,
+    "class": "Berserker",
+    "rarity": 5
+  },
+  {
+    "no": 53,
+    "class": "Berserker",
+    "rarity": 1
+  },
+  {
+    "no": 54,
+    "class": "Berserker",
+    "rarity": 2
+  },
+  {
+    "no": 55,
+    "class": "Berserker",
+    "rarity": 3
+  },
+  {
+    "no": 56,
+    "class": "Berserker",
+    "rarity": 3
+  },
+  {
+    "no": 57,
+    "class": "Berserker",
+    "rarity": 2
+  },
+  {
+    "no": 58,
+    "class": "Berserker",
+    "rarity": 4
+  },
+  {
+    "no": 59,
+    "class": "Ruler",
+    "rarity": 5
+  },
+  {
+    "no": 60,
+    "class": "Archer",
+    "rarity": 5
+  },
+  {
+    "no": 61,
+    "class": "Caster",
+    "rarity": 4
+  },
+  {
+    "no": 62,
+    "class": "Caster",
+    "rarity": 5
+  },
+  {
+    "no": 63,
+    "class": "Archer",
+    "rarity": 3
+  },
+  {
+    "no": 64,
+    "class": "Lancer",
+    "rarity": 3
+  },
+  {
+    "no": 65,
+    "class": "Rider",
+    "rarity": 5
+  },
+  {
+    "no": 66,
+    "class": "Rider",
+    "rarity": 4
+  },
+  {
+    "no": 67,
+    "class": "Caster",
+    "rarity": 4
+  },
+  {
+    "no": 68,
+    "class": "Saber",
+    "rarity": 5
+  },
+  {
+    "no": 69,
+    "class": "Archer",
+    "rarity": 4
+  },
+  {
+    "no": 70,
+    "class": "Lancer",
+    "rarity": 5
+  },
+  {
+    "no": 71,
+    "class": "Lancer",
+    "rarity": 3
+  },
+  {
+    "no": 72,
+    "class": "Saber",
+    "rarity": 3
+  },
+  {
+    "no": 73,
+    "class": "Rider",
+    "rarity": 4
+  },
+  {
+    "no": 74,
+    "class": "Caster",
+    "rarity": 4
+  },
+  {
+    "no": 75,
+    "class": "Assassin",
+    "rarity": 5
+  },
+  {
+    "no": 76,
+    "class": "Saber",
+    "rarity": 5
+  },
+  {
+    "no": 77,
+    "class": "Archer",
+    "rarity": 5
+  },
+  {
+    "no": 78,
+    "class": "Lancer",
+    "rarity": 4
+  },
+  {
+    "no": 79,
+    "class": "Caster",
+    "rarity": 3
+  },
+  {
+    "no": 80,
+    "class": "Caster",
+    "rarity": 3
+  },
+  {
+    "no": 81,
+    "class": "Assassin",
+    "rarity": 3
+  },
+  {
+    "no": 82,
+    "class": "Berserker",
+    "rarity": 4
+  },
+  {
+    "no": 83,
+    "class": "Caster",
+    "rarity": 5
+  },
+  {
+    "no": 84,
+    "class": "Archer",
+    "rarity": 5
+  },
+  {
+    "no": 85,
+    "class": "Lancer",
+    "rarity": 5
+  },
+  {
+    "no": 86,
+    "class": "Assassin",
+    "rarity": 5
+  },
+  {
+    "no": 87,
+    "class": "Lancer",
+    "rarity": 4
+  },
+  {
+    "no": 88,
+    "class": "Lancer",
+    "rarity": 5
+  },
+  {
+    "no": 89,
+    "class": "Berserker",
+    "rarity": 4
+  },
+  {
+    "no": 90,
+    "class": "Saber",
+    "rarity": 5
+  },
+  {
+    "no": 91,
+    "class": "Saber",
+    "rarity": 5
+  },
+  {
+    "no": 92,
+    "class": "Assassin",
+    "rarity": 4
+  },
+  {
+    "no": 93,
+    "class": "Ruler",
+    "rarity": 5
+  },
+  {
+    "no": 94,
+    "class": "Rider",
+    "rarity": 4
+  },
+  {
+    "no": 95,
+    "class": "Archer",
+    "rarity": 3
+  },
+  {
+    "no": 96,
+    "class": "Avenger",
+    "rarity": 5
+  },
+  {
+    "no": 97,
+    "class": "Berserker",
+    "rarity": 5
+  },
+  {
+    "no": 98,
+    "class": "Berserker",
+    "rarity": 5
+  },
+  {
+    "no": 99,
+    "class": "Rider",
+    "rarity": 5
+  },
+  {
+    "no": 100,
+    "class": "Caster",
+    "rarity": 4
+  },
+  {
+    "no": 101,
+    "class": "Saber",
+    "rarity": 4
+  },
+  {
+    "no": 102,
+    "class": "Lancer",
+    "rarity": 4
+  },
+  {
+    "no": 103,
+    "class": "Caster",
+    "rarity": 4
+  },
+  {
+    "no": 104,
+    "class": "Caster",
+    "rarity": 3
+  },
+  {
+    "no": 105,
+    "class": "Archer",
+    "rarity": 3
+  },
+  {
+    "no": 106,
+    "class": "Avenger",
+    "rarity": 5
+  },
+  {
+    "no": 107,
+    "class": "Avenger",
+    "rarity": 2
+  },
+  {
+    "no": 108,
+    "class": "Rider",
+    "rarity": 5
+  },
+  {
+    "no": 109,
+    "class": "Assassin",
+    "rarity": 4
+  },
+  {
+    "no": 110,
+    "class": "Assassin",
+    "rarity": 3
+  },
+  {
+    "no": 111,
+    "class": "Caster",
+    "rarity": 4
+  },
+  {
+    "no": 112,
+    "class": "Assassin",
+    "rarity": 5
+  },
+  {
+    "no": 113,
+    "class": "Caster",
+    "rarity": 5
+  },
+  {
+    "no": 114,
+    "class": "Berserker",
+    "rarity": 5
+  },
+  {
+    "no": 115,
+    "class": "Rider",
+    "rarity": 4
+  },
+  {
+    "no": 116,
+    "class": "Berserker",
+    "rarity": 4
+  },
+  {
+    "no": 117,
+    "class": "Assassin",
+    "rarity": 4
+  },
+  {
+    "no": 118,
+    "class": "Rider",
+    "rarity": 5
+  },
+  {
+    "no": 119,
+    "class": "Lancer",
+    "rarity": 5
+  },
+  {
+    "no": 120,
+    "class": "Caster",
+    "rarity": 4
+  },
+  {
+    "no": 121,
+    "class": "Saber",
+    "rarity": 4
+  },
+  {
+    "no": 122,
+    "class": "Archer",
+    "rarity": 4
+  },
+  {
+    "no": 123,
+    "class": "Saber",
+    "rarity": 4
+  },
+  {
+    "no": 124,
+    "class": "Assassin",
+    "rarity": 3
+  },
+  {
+    "no": 125,
+    "class": "Archer",
+    "rarity": 3
+  },
+  {
+    "no": 126,
+    "class": "Saber",
+    "rarity": 3
+  },
+  {
+    "no": 127,
+    "class": "Caster",
+    "rarity": 5
+  },
+  {
+    "no": 128,
+    "class": "Lancer",
+    "rarity": 5
+  },
+  {
+    "no": 129,
+    "class": "Archer",
+    "rarity": 5
+  },
+  {
+    "no": 130,
+    "class": "Caster",
+    "rarity": 4
+  },
+  {
+    "no": 131,
+    "class": "Archer",
+    "rarity": 4
+  },
+  {
+    "no": 132,
+    "class": "Rider",
+    "rarity": 4
+  },
+  {
+    "no": 133,
+    "class": "Assassin",
+    "rarity": 4
+  },
+  {
+    "no": 134,
+    "class": "Lancer",
+    "rarity": 4
+  },
+  {
+    "no": 135,
+    "class": "Ruler",
+    "rarity": 4
+  },
+  {
+    "no": 136,
+    "class": "Caster",
+    "rarity": 5
+  },
+  {
+    "no": 137,
+    "class": "Archer",
+    "rarity": 4
+  },
+  {
+    "no": 138,
+    "class": "Saber",
+    "rarity": 4
+  },
+  {
+    "no": 139,
+    "class": "Assassin",
+    "rarity": 5
+  },
+  {
+    "no": 140,
+    "class": "Lancer",
+    "rarity": 4
+  },
+  {
+    "no": 141,
+    "class": "Lancer",
+    "rarity": 4
+  },
+  {
+    "no": 142,
+    "class": "Archer",
+    "rarity": 5
+  },
+  {
+    "no": 143,
+    "class": "Lancer",
+    "rarity": 5
+  },
+  {
+    "no": 144,
+    "class": "Rider",
+    "rarity": 5
+  },
+  {
+    "no": 145,
+    "class": "Caster",
+    "rarity": 4
+  },
+  {
+    "no": 146,
+    "class": "Lancer",
+    "rarity": 4
+  },
+  {
+    "no": 147,
+    "class": "Avenger",
+    "rarity": 4
+  },
+  {
+    "no": 148,
+    "class": "Lancer",
+    "rarity": 3
+  },
+  {
+    "no": 149,
+    "class": "Beast",
+    "rarity": 5
+  },
+  {
+    "no": 150,
+    "class": "Caster",
+    "rarity": 5
+  },
+  {
+    "no": 151,
+    "class": "Beast",
+    "rarity": 5
+  },
+  {
+    "no": 152,
+    "class": "Caster",
+    "rarity": 5
+  },
+  {
+    "no": 153,
+    "class": "Saber",
+    "rarity": 5
+  },
+  {
+    "no": 154,
+    "class": "Assassin",
+    "rarity": 5
+  },
+  {
+    "no": 155,
+    "class": "Berserker",
+    "rarity": 5
+  },
+  {
+    "no": 156,
+    "class": "Archer",
+    "rarity": 5
+  },
+  {
+    "no": 157,
+    "class": "Archer",
+    "rarity": 4
+  },
+  {
+    "no": 158,
+    "class": "Avenger",
+    "rarity": 4
+  },
+  {
+    "no": 159,
+    "class": "Assassin",
+    "rarity": 4
+  },
+  {
+    "no": 160,
+    "class": "Saber",
+    "rarity": 5
+  },
+  {
+    "no": 161,
+    "class": "Berserker",
+    "rarity": 5
+  },
+  {
+    "no": 162,
+    "class": "Berserker",
+    "rarity": 4
+  },
+  {
+    "no": 163,
+    "class": "Alterego",
+    "rarity": 5
+  },
+  {
+    "no": 164,
+    "class": "Alterego",
+    "rarity": 4
+  },
+  {
+    "no": 165,
+    "class": "Saber",
+    "rarity": 4
+  },
+  {
+    "no": 166,
+    "class": "Mooncancer",
+    "rarity": 4
+  },
+  {
+    "no": 167,
+    "class": "Alterego",
+    "rarity": 5
+  },
+  {
+    "no": 168,
+    "class": "Beast",
+    "rarity": 5
+  },
+  {
+    "no": 169,
+    "class": "Caster",
+    "rarity": 5
+  },
+  {
+    "no": 170,
+    "class": "Assassin",
+    "rarity": 4
+  },
+  {
+    "no": 171,
+    "class": "Berserker",
+    "rarity": 4
+  },
+  {
+    "no": 172,
+    "class": "Rider",
+    "rarity": 3
+  },
+  {
+    "no": 173,
+    "class": "Ruler",
+    "rarity": 5
+  },
+  {
+    "no": 174,
+    "class": "Berserker",
+    "rarity": 1
+  },
+  {
+    "no": 175,
+    "class": "Caster",
+    "rarity": 5
+  },
+  {
+    "no": 176,
+    "class": "Saber",
+    "rarity": 4
+  },
+  {
+    "no": 177,
+    "class": "Assassin",
+    "rarity": 4
+  },
+  {
+    "no": 178,
+    "class": "Berserker",
+    "rarity": 4
+  },
+  {
+    "no": 179,
+    "class": "Rider",
+    "rarity": 5
+  },
+  {
+    "no": 180,
+    "class": "Archer",
+    "rarity": 4
+  },
+  {
+    "no": 181,
+    "class": "Lancer",
+    "rarity": 4
+  },
+  {
+    "no": 182,
+    "class": "Rider",
+    "rarity": 4
+  }
+]
